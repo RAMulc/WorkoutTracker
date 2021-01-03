@@ -11,7 +11,7 @@
 <br>
 [Usage](#Usage)
 <br>
-[Future Development](#Future Development)
+[FutureDevelopment](#FutureDevelopment)
 <br>
 ---------------
 
@@ -61,7 +61,7 @@ Run npm install to install the required packages.
 Run 'node server.js' at the command line to start the program or [run from Heroku.](https://ram-workout-tracker.herokuapp.com/?id=5ff10e285989280017fed7b8).
 
 
-## Future Development
+## FutureDevelopment
 
 Prevent a workout from being created with an empty exercises array.
 
