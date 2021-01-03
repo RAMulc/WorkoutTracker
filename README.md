@@ -36,13 +36,13 @@ A simple application to track/store workouts and exercises using MongoDB, Node a
 
 First use, the user is presented with an option to create a new workout. Thereafter the user will be presented with the last workout stats, and options to add an exercise to the current workout, or create a new workout.
 
-![Landing Page](https://github.com/RAMulc/WorkoutTracker/assets/images/landingPage.png)
+![Landing Page](https://github.com/RAMulc/WorkoutTracker/blob/main/assets/images/landingPage.png)
 
 ***Add Exercise/New Workout***
 
 Adding a new exercise, or creating a new workout utilises the same page. Buttons to complete or add exercise are disabled until all required fields are populated. 
 
-![Add an exercise](https://github.com/RAMulc/WorkoutTracker/assets/images/ExerciseAdd.png)
+![Add an exercise](https://github.com/RAMulc/WorkoutTracker/blob/main/assets/images/ExerciseAdd.png)
 
 *Known issue: Clicking "Fitness Tracker" on the top left without adding the workout results in an empty exercise array being added to the database.*
 
@@ -50,7 +50,7 @@ Adding a new exercise, or creating a new workout utilises the same page. Buttons
 
 Data for workout is presented to the user in the form a line graph, bar chart, and pie charts.
 
-![Dashboard](https://github.com/RAMulc/WorkoutTracker/assets/images/Dashboard.png)
+![Dashboard](https://github.com/RAMulc/WorkoutTracker/blob/main/assets/images/Dashboard.png)
 
 ## Installation
 
